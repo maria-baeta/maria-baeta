@@ -9,6 +9,8 @@
   - Html,
   - Css,
   - Java Script,
+  - React,
+  - Node,
   - Banco de Dados,
 - 🌱 Participante da 3ª Edição da Aceleração do Luiza Code em Node.js,
 
