@@ -2,8 +2,8 @@
 
 - 💬 Sobre mim...
   - Mineira,
-  - :libra: Libriana,
-
+  - Apaixonada por livros,
+  - Amo aprender
 - 🌱 Estudante de Desenvolvimento web na Trybe:
 - 🌱 Aprendendo: 
   - Html,
