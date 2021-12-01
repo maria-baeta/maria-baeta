@@ -4,6 +4,7 @@
   - Mineira,
   - Apaixonada por livros,
   - Amo aprender
+- 🌱 Desenvolvedora Front Jr na Somos Educaçâo
 - 🌱 Estudante de Desenvolvimento web na Trybe:
 - 🌱 Aprendendo: 
   - Html,
