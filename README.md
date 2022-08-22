@@ -1,5 +1,5 @@
 ## Olá, me chamo Maria Baeta! 
-### Bem vindos! Ao meu perfil GitHub 👋
+### Bem vindos! Ao meu perfil do GitHub 👋
 
 
 
