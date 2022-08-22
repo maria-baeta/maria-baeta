@@ -44,3 +44,9 @@
 - ⚡ Curiosidade: ...
  - [Formação em Desenvolvimento Web pela @Trybe](https://drive.google.com/file/d/1Ms88ZAIMu0aD7zhjD5pQr2ywkSpdlHHh/view?usp=sharing) (Turma 10A - Fev/2022)
  - [Participante da 3ª Edição do Luiza Labs](https://drive.google.com/file/d/1zkuEZKWaOhz_lpktyv6Gz70Ptv_O2SOD/view?usp=sharing) (Aceleração em Node - Set/2021)
+ 
+ <div>
+<a href="https://github.com/maria-baeta">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-baeta&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maria-baeta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
