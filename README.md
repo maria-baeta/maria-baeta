@@ -1,52 +1,39 @@
-## Olá, me chamo Maria Baeta! 
-### Bem vindos! Ao meu perfil do GitHub 👋
 
 
 
-- 🔭 Atualmente estou trabalhando em ...
+# 🚀 Sobre mim
+Eu sou uma pessoa desenvolvedora full-stack que iniciou a migração de carreira em 2021. Nesse tempo estudei e me formei pela **@Trybe** em Desenvolvimento Web (2021/20212), participei do projeto de aceleração em Node.js realizado pelo **@LuizaLabs** em parceria com **@GamaAcademy**. Atuei com Desenvolvedora Front-end na **@SomosEduacao** (2021/2022) e atualmente como Software Engenier na **@VoaHoteis**. 
 
-  Sou Desenvolvedora Front-end Jr na **Somos Educação** atuando com:
+
+## 🛠 Habilidades
+
+Através de estudos e atuação no mercado de TI desenvolvi as seguintes habilidades de Softskills e Hardskills:
+
   
-     - Typescript/Javascript com React
-     - GraphQl
-      
-- ### Ferramentas e Tecnologias
+- ### **Hardskills**
+    - Back-end: Node.js,Express, Prisma, GraphQl... 
+    - Front-end: HTML, CSS, JavaScript, TypeScript, React e Next.js;
+    - Banco de Dados: SQL (MySQL) e NoSQL (MongDb).
+    - Git: Git, GitHub e GitLab
 
-    - 🌱 O que já conhecço ...
-    
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg" width="40" height="40"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-   
-    
-    - 🌱 Atualmente estou aprendendo ...
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/>
-   <br/>
-   
-    - 🌱 Pretendo me aprofundar em ...
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
-  
-  
-- 📫 Como entrar em contato comigo: ...
-    <div>
+- ### **Softskills**
+    - Autoliderança
+    - Diversidade & Inclusão
+    - Comunicação assertiva
+    - Escuta assertiva
+    - Inteligência Emocional
+    - Empatia
+    - Resiliência
+    - Criatividade & Inovação
+    - Resolução de problemas
+    - Raciocinio lógico
+    - Liderança e si e dos outros
+
+
+## 🔗 Links
+
+<div>
       <a href = "mailto:m.martinsdg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/maria-baeta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  </div>
-
-- ⚡ Curiosidade: ...
- - [Formação em Desenvolvimento Web pela @Trybe](https://drive.google.com/file/d/1Ms88ZAIMu0aD7zhjD5pQr2ywkSpdlHHh/view?usp=sharing) (Turma 10A - Fev/2022)
- - [Participante da 3ª Edição do Luiza Labs](https://drive.google.com/file/d/1zkuEZKWaOhz_lpktyv6Gz70Ptv_O2SOD/view?usp=sharing) (Aceleração em Node - Set/2021)
- 
- <div>
-<a href="https://github.com/maria-baeta">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-baeta&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maria-baeta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
