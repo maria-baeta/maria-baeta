@@ -11,24 +11,29 @@ Através de estudos e atuação no mercado de TI desenvolvi as seguintes habilid
 
   
 - ### **Hardskills**
-    - Back-end: Node.js,Express, Prisma, GraphQl... 
+
+```bash
+    - Back-end: Node.js,Express, Prisma, GraphQl;
     - Front-end: HTML, CSS, JavaScript, TypeScript, React e Next.js;
-    - Banco de Dados: SQL (MySQL) e NoSQL (MongDb).
-    - Git: Git, GitHub e GitLab
+    - Banco de Dados: SQL (MySQL) e NoSQL (MongDb);
+    - Git: Git, GitHub e GitLab.
+``` 
 
 - ### **Softskills**
-    - Autoliderança
-    - Diversidade & Inclusão
-    - Comunicação assertiva
-    - Escuta assertiva
-    - Inteligência Emocional
-    - Empatia
-    - Resiliência
-    - Criatividade & Inovação
-    - Resolução de problemas
-    - Raciocinio lógico
-    - Liderança e si e dos outros
 
+```bash
+    - Autoliderança;
+    - Diversidade & Inclusão;
+    - Comunicação assertiva;
+    - Escuta assertiva;
+    - Inteligência Emocional;
+    - Empatia;
+    - Resiliência;
+    - Criatividade & Inovação;
+    - Resolução de problemas;
+    - Raciocinio lógico;
+    - Liderança e si e dos outros.
+```
 
 ## 🔗 Links
 
